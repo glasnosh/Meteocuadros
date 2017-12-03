@@ -1,6 +1,10 @@
 # Meteocuadros
 Arduino based weather station &amp; PHP frontend
 
+License
+Arduino's IDE and many other libraries and utilities are licensed under a Creative Commons Attribution Share-Alike license. Check details here: https://www.arduino.cc/en/Main/FAQ
+Any code writed by me for this miniproject is licensed under the same license.
+
 Tips:
 - License is 
 - SIM Card must be PIN unlocked.
