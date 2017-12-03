@@ -15,8 +15,8 @@ Tips:
     3. Stay OFF until loop() starts
    * Loop sequency is:
     1.  Green ON while reading sensor data
-    2.  Green OFF when data collected
+    2.  Green OFF when data are collected
     3.  Orange ON while sending data over GPRS
-    4.  Orangle OFF when data is sent
+    4.  Orange OFF when data are sent
     5.  BOTH ON while sleeping to the next measure
     6.  BOTH OFF before next loop
