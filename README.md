@@ -6,7 +6,6 @@ Arduino's IDE and many other libraries and utilities are licensed under a Creati
 Any code writed by me for this miniproject is licensed under the same license.
 
 Tips:
-- License is 
 - SIM Card must be PIN unlocked.
 - 1uF Capacitor is usefull if the power source is not able to provide 1A during SIM800L's communication burts.
 - Leds Legend is:
